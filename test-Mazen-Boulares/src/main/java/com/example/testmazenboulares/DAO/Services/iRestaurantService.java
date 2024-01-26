@@ -11,13 +11,7 @@ public interface iRestaurantService {
 //    List<String> findAllRestaurantsParTypeMenu(TypeMenu typeMenu);
 
 
-//    List<Piste> addAllPistes(List<Piste> Pistes);
-//    Piste updatePiste(Piste b);
-//    List<Piste> findAllPistes();
-//    Piste findPisteById(long id);
-//    void deletePiste(Piste b);
-//    void deletePisteById(long id);
-//
+
 
 
 
